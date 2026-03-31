@@ -1,6 +1,6 @@
 # Hi 👋, I'm John Isaac escal
 
-### an Aspiring full stack developer and cybersecurity analyst
+### An aspiring full stack developer and cybersecurity analyst
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=J-isaac007&label=Profile" alt="J-isaac007" /> </p>
 
