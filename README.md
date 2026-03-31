@@ -2,7 +2,7 @@
 
 ### an Aspiring full stack developer and cybersecurity analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-isaac007&label=Profile views&color=0e75b6&style=flat" alt="J-isaac007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-isaac007&label=Profile" alt="J-isaac007" /> </p>
 
 - 📫 How to reach me **escal.isaac007@gmail.com**
 
