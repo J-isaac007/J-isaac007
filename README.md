@@ -89,10 +89,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-isaac007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-isaac007&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <br/>
