@@ -100,8 +100,6 @@
 
 </div>
 
-> The snake above needs a one-time setup (it's a GitHub Action that runs against your real contribution graph) — see `snake.yml` and the steps below.
-
 <br/>
 
 ## 🌐 Connect with Me
