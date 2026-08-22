@@ -78,24 +78,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/asyncparrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/asyncparrot.gif" width="28" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="28" />
-
-<br/><br/>
-
+  
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=J-isaac007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=J-isaac007&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-isaac007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
