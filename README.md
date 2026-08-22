@@ -75,18 +75,32 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — Live
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-isaac007/J-isaac007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-isaac007/J-isaac007/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/J-isaac007/J-isaac007/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-isaac007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=J-isaac007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=J-isaac007&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-isaac007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+> The snake above needs a one-time setup (it's a GitHub Action that runs against your real contribution graph) — see `snake.yml` and the steps below.
 
 <br/>
 
