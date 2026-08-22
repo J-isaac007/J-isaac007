@@ -91,11 +91,6 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=J-isaac007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=J-isaac007&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-isaac007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
