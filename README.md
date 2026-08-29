@@ -75,14 +75,4 @@
 
 <br/>
 
-## 📫 Get in Touch
-
-<div align="center">
-
-📧 **escal.isaac007@gmail.com**
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0f2027&height=100&section=footer" width="100%"/>
