@@ -85,18 +85,6 @@
 
 <br/>
 
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/J-isaac007"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/john-isaac-escal-25103a383"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
-<a href="https://fb.com/Isaac.escal"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
-
-</div>
-
-<br/>
-
 ## 📫 Get in Touch
 
 <div align="center">
