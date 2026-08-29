@@ -75,16 +75,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=J-isaac007&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
 ## 📫 Get in Touch
 
 <div align="center">
