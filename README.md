@@ -35,10 +35,10 @@
       <br />
       <sub>Free, offline pixel art editor for Windows</sub>
       <br /><br />
-      <a href="https://github.com/J-isaac007/raster/releases/latest"><img src="https://img.shields.io/badge/Download-v0.3.0-16171d?style=for-the-badge&labelColor=4ade80" alt="Download v0.3.0" /></a>
+      <a href="https://github.com/J-isaac007/raster/releases/latest"><img src="https://img.shields.io/badge/Download-v0.4.0-16171d?style=for-the-badge&labelColor=4ade80" alt="Download v0.4.0" /></a>
       <a href="https://github.com/J-isaac007/raster"><img src="https://img.shields.io/badge/Source-GitHub-16171d?style=for-the-badge&labelColor=5b8cff" alt="Source on GitHub" /></a>
       <br /><br />
-      <sub><b>3</b> releases in 9 hours · <b>152</b> tests · GIF and sprite sheet export</sub>
+      <sub><b>4</b> releases in 10 hours · <b>163</b> tests · auto-updates · GIF and sprite sheet export</sub>
       <br /><br />
     </td>
   </tr>
