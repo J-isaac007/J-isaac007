@@ -1,89 +1,59 @@
 <!--
-  Theme: Raster palette. ink #16171d, blue #5b8cff, pink #ff6b8b, gold #ffd166, green #4ade80
-  Badge logo color: blue = languages, pink = frameworks, gold = tooling
-  Banner: assets/banner-*.svg (animated, shrinks to a text-only layout on phones).
+  Theme: GitHub surfaces + violet to cyan accent.
+    dark  surface #161b22  border #30363d  accent #a78bfa -> #22d3ee
+    light surface #f6f8fa  border #d0d7de  accent #7c3aed -> #0891b2
+  Banner and project cards live in assets/. Edit scripts/build.mjs, then run: node scripts/build.mjs
 -->
 
-<a href="https://github.com/J-isaac007/raster">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img src="assets/banner-light.svg" alt="John Isaac Escal. Desktop apps, APIs, open source. Now shipping Raster v0.5.0." width="100%" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <img src="assets/banner-light.svg" alt="Hi, I'm John Isaac Escal. I build desktop apps, flood alert systems, lunar landing sims and controller remappers." width="100%" />
+</picture>
+
+<br />
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-16171d?style=for-the-badge&logo=typescript&logoColor=5b8cff" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-16171d?style=for-the-badge&logo=react&logoColor=ff6b8b" alt="React" /></a>
-  <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-16171d?style=for-the-badge&logo=electron&logoColor=ff6b8b" alt="Electron" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-16171d?style=for-the-badge&logo=nodedotjs&logoColor=ff6b8b" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-16171d?style=for-the-badge&logo=express&logoColor=ff6b8b" alt="Express" /></a>
-  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-16171d?style=for-the-badge&logo=prisma&logoColor=ff6b8b" alt="Prisma" /></a>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-16171d?style=for-the-badge&logo=flutter&logoColor=ff6b8b" alt="Flutter" /></a>
+  Computer science student shipping across the stack:
+  Windows apps, .NET tools, IoT dashboards and research prototypes.
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,prisma,electron,vite,cs,dotnet,py,flutter,dart,java,firebase,git&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,prisma,electron,vite,cs,dotnet,py,flutter,dart,java,firebase,git&perline=8&theme=light" alt="TypeScript, JavaScript, React, Node.js, Express, Prisma, Electron, Vite, C#, .NET, Python, Flutter, Dart, Java, Firebase, Git" width="420" />
+  </picture>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/J-isaac007/raster"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/raster-dark.svg" /><img src="assets/raster-light.svg" alt="Raster: free, offline pixel art editor for Windows. TypeScript, React, Electron." width="400" /></picture></a>
+  <a href="https://github.com/J-isaac007/BahAlert"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bahalert-dark.svg" /><img src="assets/bahalert-light.svg" alt="BahAlert: community flood monitor with ESP32 sensors and a live map. React, Mapbox, Firebase, ESP32." width="400" /></picture></a>
+  <a href="https://github.com/zero0no1one/NASA_GITCANTCOMMIT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/echo-path-dark.svg" /><img src="assets/echo-path-light.svg" alt="Echo-Path: lunar descent contingency planner, NASA Space Apps 2026 team project. Python, Streamlit, NumPy, SciPy." width="400" /></picture></a>
+  <a href="https://github.com/J-isaac007/FlipFace"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/flipface-dark.svg" /><img src="assets/flipface-light.svg" alt="FlipFace: remaps any controller to a virtual Xbox 360 pad. C#, SDL3, ViGEm. Work in progress." width="400" /></picture></a>
+</p>
+
+<p align="center">
+  <sub>Try <a href="https://j-isaac007.github.io/BahAlert/"><b>BahAlert live</b></a> · Download <a href="https://github.com/J-isaac007/raster/releases/latest"><b>Raster for Windows</b></a></sub>
 </p>
 
 <details>
-  <summary align="center"><sub><b>Full stack</b></sub></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-16171d?style=flat-square&logo=javascript&logoColor=5b8cff" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Java-16171d?style=flat-square&logo=openjdk&logoColor=5b8cff" alt="Java" />
-    <img src="https://img.shields.io/badge/Dart-16171d?style=flat-square&logo=dart&logoColor=5b8cff" alt="Dart" />
-    <img src="https://img.shields.io/badge/Python-16171d?style=flat-square&logo=python&logoColor=5b8cff" alt="Python" />
-    <img src="https://img.shields.io/badge/Vite-16171d?style=flat-square&logo=vite&logoColor=ffd166" alt="Vite" />
-    <img src="https://img.shields.io/badge/Vitest-16171d?style=flat-square&logo=vitest&logoColor=ffd166" alt="Vitest" />
-    <img src="https://img.shields.io/badge/ESLint-16171d?style=flat-square&logo=eslint&logoColor=ffd166" alt="ESLint" />
-    <img src="https://img.shields.io/badge/Prettier-16171d?style=flat-square&logo=prettier&logoColor=ffd166" alt="Prettier" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-16171d?style=flat-square&logo=githubactions&logoColor=ffd166" alt="GitHub Actions" />
-  </p>
+  <summary><b>More projects</b></summary>
+  <br />
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [To-Do List API](https://github.com/J-isaac007/to-do-list-api) | REST API with auth and per-user todo CRUD | Express 5, Prisma, TypeScript |
+| [Aura](https://github.com/FerosC101/Aura) | Startup app, early stage (team) | Flutter |
+| [OOP 101 Activities](https://github.com/J-isaac007/CS2101_EscalJI_OOP101_Activities) | University coursework | Java |
+
 </details>
 
 <br />
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <br />
-      <a href="https://github.com/J-isaac007/raster">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-isaac007/raster/main/docs/logo-dark.svg" />
-          <img src="https://raw.githubusercontent.com/J-isaac007/raster/main/docs/logo-light.svg" alt="Raster" height="56" />
-        </picture>
-      </a>
-      <br />
-      <sub>Free, offline pixel art editor for Windows</sub>
-      <br /><br />
-      <a href="https://github.com/J-isaac007/raster/releases/latest"><img src="https://img.shields.io/badge/Download-v0.5.0-16171d?style=for-the-badge&labelColor=4ade80" alt="Download v0.5.0" /></a>
-      <a href="https://github.com/J-isaac007/raster"><img src="https://img.shields.io/badge/Source-GitHub-16171d?style=for-the-badge&labelColor=5b8cff" alt="Source on GitHub" /></a>
-      <br /><br />
-      <sub><b>5</b> releases in 6 days · <b>195</b> tests</sub>
-      <br />
-      <sub>auto-updates · GIF and sprite sheet export</sub>
-      <br /><br />
-      <details>
-        <summary><sub><b>What's inside</b></sub></summary>
-        <br />
-        <sub>🎨 Pixel-perfect strokes, dithering, custom brushes</sub><br />
-        <sub>🎞️ Timeline, onion skin, tags, linked cels</sub><br />
-        <sub>🔄 RotSprite rotate and scale, no blur</sub><br />
-        <sub>🎯 Rect, lasso and magic wand select</sub><br />
-        <sub>🌈 Indexed color and palette swap</sub><br />
-        <sub>⌨️ Command palette, every tool on a key</sub>
-        <br /><br />
-      </details>
-    </td>
-  </tr>
-</table>
-
-<!-- Projects 2 and 3: copy the Raster table above. -->
-
-<br />
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=J-isaac007&show_icons=true&hide_border=true&hide_title=true&bg_color=16171d&icon_color=ffd166&text_color=f4f5f8&ring_color=ff6b8b&border_radius=8" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=J-isaac007&show_icons=true&hide_border=true&hide_title=true&bg_color=f4f5f8&icon_color=5b8cff&text_color=16171d&ring_color=ff6b8b&border_radius=8" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=J-isaac007&layout=compact&hide_border=true&hide_title=true&bg_color=16171d&text_color=f4f5f8&border_radius=8" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-isaac007&layout=compact&hide_border=true&hide_title=true&bg_color=f4f5f8&text_color=16171d&border_radius=8" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=J-isaac007&background=161b22&border=30363d&stroke=30363d&ring=a78bfa&fire=22d3ee&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a78bfa&sideLabels=8d96a0&dates=8d96a0&border_radius=16" />
+    <img src="https://streak-stats.demolab.com/?user=J-isaac007&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=7c3aed&fire=0891b2&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=7c3aed&sideLabels=59636e&dates=59636e&border_radius=16" alt="GitHub contribution streak" width="400" />
   </picture>
 </p>
