@@ -1,37 +1,36 @@
-```text
+<table align="center">
+  <tr>
+    <td>
+<pre>
   ▀█ ▄▀▀▄ █  █ █▄ █
 ▄  █ █  █ █▀▀█ █ ▀█
  ▀▀   ▀▀  ▀  ▀ ▀  ▀
-
+&nbsp;
 ▀█▀ ▄▀▀▀ ▄▀▀▄ ▄▀▀▄ ▄▀▀▀
  █   ▀▀▄ █▀▀█ █▀▀█ █
 ▀▀▀ ▀▀▀  ▀  ▀ ▀  ▀  ▀▀▀
-
+&nbsp;
 █▀▀▀ ▄▀▀▀ ▄▀▀▀ ▄▀▀▄ █
 █▀▀   ▀▀▄ █    █▀▀█ █
 ▀▀▀▀ ▀▀▀   ▀▀▀ ▀  ▀ ▀▀▀▀
-
-cs student. builds things
-for desktop, web and hardware.
-```
-
-<table>
-  <tr>
-    <td><b>writes</b></td>
-    <td><kbd>TypeScript</kbd> <kbd>C#</kbd> <kbd>Python</kbd> <kbd>Java</kbd> <kbd>Dart</kbd></td>
-  </tr>
-  <tr>
-    <td><b>builds&nbsp;with</b></td>
-    <td><kbd>React</kbd> <kbd>Electron</kbd> <kbd>.NET</kbd> <kbd>Node</kbd> <kbd>Flutter</kbd> <kbd>Firebase</kbd></td>
-  </tr>
-  <tr>
-    <td><b>works&nbsp;on</b></td>
-    <td><kbd>Windows</kbd> <kbd>ESP32</kbd> <kbd>Git</kbd></td>
+</pre>
+    </td>
   </tr>
 </table>
 
-> [!NOTE]
-> **Now:** learning .NET 10.
+<p align="center">
+  <b>Computer science student</b>
+  <br />
+  <sub>Building for desktop, web and hardware. Now learning .NET 10.</sub>
+</p>
+
+<p align="center">
+  <kbd>TypeScript</kbd> <kbd>C#</kbd> <kbd>Python</kbd> <kbd>Java</kbd> <kbd>Dart</kbd>
+  <br />
+  <kbd>React</kbd> <kbd>Electron</kbd> <kbd>.NET</kbd> <kbd>Node</kbd> <kbd>Flutter</kbd> <kbd>Firebase</kbd>
+  <br />
+  <kbd>Windows</kbd> <kbd>ESP32</kbd> <kbd>Git</kbd>
+</p>
 
 <br />
 
